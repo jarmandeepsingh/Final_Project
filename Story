@@ -1,0 +1,19 @@
+Template Selection
+As a user, I want to select a website template, so that I can start customizing my website.
+
+Acceptance Criteria:
+User can view a list of available templates.
+User can select a template to start customization.
+Tasks:
+Design Template Selection Page (Frontend)
+
+Subtask: Create a grid layout to display available templates.
+Subtask: Add a preview feature for each template.
+Implement Template Selection Logic (Backend)
+
+Subtask: Create an API to fetch available templates.
+Subtask: Store user-selected template in the database.
+Test Template Selection Functionality
+
+Subtask: Write test cases to ensure templates are displayed correctly.
+Subtask: Validate that the selected template is stored properly.
